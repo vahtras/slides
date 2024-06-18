@@ -1,0 +1,14 @@
+
+[Spanish]      [German]
+  |                |
+  v                v
+df545d7       49b6bf5
+   \         /
+    \       /
+     84bfae8<-[main,HEAD]
+     |
+     b895711
+     |
+     f56e3da
+     |
+    .git

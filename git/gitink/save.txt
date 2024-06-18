@@ -1,0 +1,15 @@
+
+           8d626a5<-[main,HEAD]
+           |      \    
+[Spanish]->df545d7 \
+           |        \  
+           |        49b6bf5<-[German]
+           |       /
+           |      /
+           84bfae8
+           |
+           b895711
+           |
+           f56e3da
+           |
+          .git
